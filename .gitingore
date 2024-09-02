@@ -15,13 +15,11 @@ __Previews
 #useless dirs
 Project\ Outputs
 Project\ Logs
-Project Outputs for*
-History/
 Project Outputs/
 Project Outputs for*
 
 #History
-History
+History/
 
 #Exports, but not manual ones
 exports/*
